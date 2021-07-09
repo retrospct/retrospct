@@ -1,7 +1,7 @@
 ### 🔭 I’m currently working on ...
-- A cross-platform drop-in audio collaboration application at VMware - Emerging Technologies
-- To Your Rescue rebuild and modernization to a SaaS application through VMware Foundation
-- Spark, Two Perfect Events, and building out a garage workshop.
+- A cross-platform drop-in audio collaboration application (VMware)
+- To Your Rescue rebuild and modernization to a SaaS application (VMware Foundation)
+- Spark, Two Perfect Events, and building out a garage workshop
 
 ### 🌱 I’m currently learning ...
 - Go
