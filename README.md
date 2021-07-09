@@ -9,7 +9,7 @@
 - Meditation
 - 3D modeling & design (Shaper3D & Fusion360)
 
-### 📫 How to reach me
+### 📫 How to reach me ...
 [me@jlee.cool](mailto:me@jlee.cool)
 
 <!-- ### Hi there 👋 -->
