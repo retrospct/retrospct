@@ -11,7 +11,6 @@
 
 ### 📫 How to reach me
 [me@jlee.cool](mailto:me@jlee.cool)
-<a href="mailto:me@jlee.cool">me@jlee.cool</a>
 
 <!-- ### Hi there 👋 -->
 
