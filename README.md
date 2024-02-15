@@ -1,16 +1,20 @@
 ### 🔭 I’m currently working on ...
-- A cross-platform drop-in audio collaboration application (VMware)
-- To Your Rescue rebuild and modernization to a SaaS application (VMware Foundation)
-- Spark, Two Perfect Events, and building out a garage workshop
+- [HyperGo](https://www.hypergo.io)
+- [Two Perfect Events, new website & migration off Squarespace](https://twoperfectevents.com)
+- [Capsule](https://capsule.cat)
+- [Spark](https://spark.sh)
+- Building out a garage workshop
 
 ### 🌱 I’m currently learning ...
-- Go
-- [Vite](https://vitejs.dev/)
-- Meditation
-- 3D modeling & design (Shapr3D & Fusion360)
+- Rust
+- Marketing
+- Re-learning how to social media 🙃
 
 ### 📫 How to reach me ...
 [me@jlee.cool](mailto:me@jlee.cool)
+
+### ✨ Check out my hyperpage ...
+[hgl.ink/retrospct](https://hgl.ink/retrospct)
 
 <!-- ### Hi there 👋 -->
 
