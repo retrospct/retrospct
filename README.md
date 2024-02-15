@@ -1,6 +1,6 @@
 ### 🔭 I’m currently working on ...
 - [HyperGo](https://www.hypergo.io)
-- [Two Perfect Events, new website & migration off Squarespace](https://twoperfectevents.com)
+- [Two Perfect Events, new website WIP](https://twoperfectevents.com)
 - [Capsule](https://capsule.cat)
 - [Spark](https://spark.sh)
 - Building out a garage workshop
