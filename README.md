@@ -14,7 +14,7 @@
 [me@jlee.cool](mailto:me@jlee.cool)
 
 ### ✨ Check out my hyperpage ...
-[hgl.ink/retrospct](https://hgl.ink/retrospct)
+[hgo.bio/retrospct](https://hgo.bio/retrospct)
 
 <!-- ### Hi there 👋 -->
 
